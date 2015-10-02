@@ -1,0 +1,35 @@
+body {
+	border-top: 3px solid black;
+	border-bottom: 3px solid black;
+	font-family: Helvetica, Arial, san serif;
+	padding: 20px;
+	margin: 100px 300px;
+	font-size: 100%;
+}
+
+a {
+	color: black;
+	text-decoration: underline;
+}
+
+header {
+	text-align: center;
+}
+
+nav {
+	font-weight: bold;
+}
+
+h1 {
+	padding: 0;
+}
+
+h3 {
+	text-align: center;
+}
+
+#social-media {
+	font-weight: bold;
+	font-size: 110%;
+	text-align: center;
+}
